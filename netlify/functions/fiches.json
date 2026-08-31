@@ -7,6 +7,7 @@
   "kw": "couvreur lyon",
   "city": "Lyon",
   "link": "https://maps.app.goo.gl/6i6nzUhuN5MtjKSs9",
+  "obj": 10,
   "region": "Rhône-Alpes"
  },
  {
@@ -17,6 +18,7 @@
   "kw": "couvreur montbrison",
   "city": "Montbrison",
   "link": "https://maps.app.goo.gl/LFk6DM7Xox3FJR7G6",
+  "obj": 10,
   "region": "Rhône-Alpes"
  },
  {
@@ -27,6 +29,7 @@
   "kw": "couvreur saint etienne",
   "city": "St-Étienne",
   "link": "https://maps.app.goo.gl/ZpgbZH4NRzzehxco6",
+  "obj": 10,
   "region": "Rhône-Alpes"
  },
  {
@@ -37,6 +40,7 @@
   "kw": "couvreur grenoble",
   "city": "Grenoble",
   "link": "https://maps.app.goo.gl/oixkjDHqcmXp1M4K7",
+  "obj": 10,
   "region": "Rhône-Alpes"
  },
  {
@@ -47,6 +51,7 @@
   "kw": "couvreur roanne",
   "city": "Roanne",
   "link": "https://maps.app.goo.gl/KYrCgBo1wm1W6vyU6",
+  "obj": 10,
   "region": "Rhône-Alpes"
  },
  {
@@ -57,6 +62,7 @@
   "kw": "couvreur seurre",
   "city": "Seurre",
   "link": "https://maps.app.goo.gl/q4DoyLCj6LVM258Q9",
+  "obj": 10,
   "region": "Rhône-Alpes"
  }
 ]
