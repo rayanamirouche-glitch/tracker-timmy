@@ -1,62 +1,52 @@
 [
- {
-  "name": "Couvreur master toitures lyonnaise",
-  "q": "Couvreur master toitures lyonnaise",
-  "target": "couvreur master toitures",
-  "ll": "45.760,4.840",
-  "kw": "couvreur lyon",
-  "city": "Lyon",
-  "link": "https://maps.app.goo.gl/6i6nzUhuN5MtjKSs9",
-  "region": "Rhône-Alpes"
- },
- {
-  "name": "L’expert couvreur | montbrison toiture",
-  "q": "L’expert couvreur | montbrison toiture",
-  "target": "l’expert couvreur |",
-  "ll": "45.607,4.065",
-  "kw": "couvreur montbrison",
-  "city": "Montbrison",
-  "link": "https://maps.app.goo.gl/LFk6DM7Xox3FJR7G6",
-  "region": "Rhône-Alpes"
- },
- {
-  "name": "St Etienne expert élite couvreur",
-  "q": "St Etienne expert élite couvreur",
-  "target": "st etienne expert",
-  "ll": "45.439,4.387",
-  "kw": "couvreur saint etienne",
-  "city": "St-Étienne",
-  "link": "https://maps.app.goo.gl/ZpgbZH4NRzzehxco6",
-  "region": "Rhône-Alpes"
- },
- {
-  "name": "Grenoble top toit couvreur",
-  "q": "Grenoble top toit couvreur",
-  "target": "grenoble top toit",
-  "ll": "45.188,5.724",
-  "kw": "couvreur grenoble",
-  "city": "Grenoble",
-  "link": "https://maps.app.goo.gl/oixkjDHqcmXp1M4K7",
-  "region": "Rhône-Alpes"
- },
- {
-  "name": "Saint exupery artisan couverture Roanne",
-  "q": "Saint exupery artisan couverture Roanne",
-  "target": "saint exupery artisan",
-  "ll": "46.037,4.070",
-  "kw": "couvreur roanne",
-  "city": "Roanne",
-  "link": "https://maps.app.goo.gl/KYrCgBo1wm1W6vyU6",
-  "region": "Rhône-Alpes"
- },
- {
-  "name": "Toit renov seurre couvreur",
-  "q": "Toit renov seurre couvreur",
-  "target": "toit renov seurre",
-  "ll": "46.999,5.152",
-  "kw": "couvreur seurre",
-  "city": "Seurre",
-  "link": "https://maps.app.goo.gl/q4DoyLCj6LVM258Q9",
-  "region": "Rhône-Alpes"
- }
+  {
+    "name": "Couvreur master toitures lyonnaise",
+    "q": "Couvreur master toitures lyonnaise",
+    "target": "couvreur master toitures",
+    "ll": "45.760,4.840",
+    "kw": "couvreur lyon",
+    "city": "Lyon",
+    "link": "https://maps.app.goo.gl/6i6nzUhuN5MtjKSs9",
+    "region": "Rhône-Alpes"
+  },
+  {
+    "name": "L’expert couvreur | montbrison toiture",
+    "q": "L’expert couvreur | montbrison toiture",
+    "target": "l’expert couvreur |",
+    "ll": "45.607,4.065",
+    "kw": "couvreur montbrison",
+    "city": "Montbrison",
+    "link": "https://maps.app.goo.gl/LFk6DM7Xox3FJR7G6",
+    "region": "Rhône-Alpes"
+  },
+  {
+    "name": "St Etienne expert élite couvreur",
+    "q": "St Etienne expert élite couvreur",
+    "target": "st etienne expert",
+    "ll": "45.439,4.387",
+    "kw": "couvreur saint etienne",
+    "city": "St-Étienne",
+    "link": "https://maps.app.goo.gl/ZpgbZH4NRzzehxco6",
+    "region": "Rhône-Alpes"
+  },
+  {
+    "name": "Grenoble top toit couvreur",
+    "q": "Grenoble top toit couvreur",
+    "target": "grenoble top toit",
+    "ll": "45.188,5.724",
+    "kw": "couvreur grenoble",
+    "city": "Grenoble",
+    "link": "https://maps.app.goo.gl/oixkjDHqcmXp1M4K7",
+    "region": "Rhône-Alpes"
+  },
+  {
+    "name": "Saint exupery artisan couverture Roanne",
+    "q": "Saint exupery artisan couverture Roanne",
+    "target": "saint exupery artisan",
+    "ll": "46.037,4.070",
+    "kw": "couvreur roanne",
+    "city": "Roanne",
+    "link": "https://maps.app.goo.gl/KYrCgBo1wm1W6vyU6",
+    "region": "Rhône-Alpes"
+  }
 ]
